@@ -1,2 +1,7 @@
-# supercls
+# supercls 0.1.
+## description.
 Supercls is a Python package that allows you to easily make a clear on the console that works on most Python-compatible platforms by just typing a command.
+## New things added.
+1. Linux, MacOS an Windows compatibility.
+## Extra Information
+This is a Alpha version.
