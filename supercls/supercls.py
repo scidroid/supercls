@@ -1,4 +1,2 @@
 def cls():
-    import platform
-    import os
-    os.system('cls' if os.name == 'nt' else 'clear')
+    print("\033[%d;%dH\033[2J" % (0, 0), end="")
