@@ -1,4 +1,4 @@
-from supercls.supercls import cls
+from supercls import cls
 from time import sleep
 print("Hello")
 print("I'm SciDroid")
